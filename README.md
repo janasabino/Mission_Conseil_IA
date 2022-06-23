@@ -51,7 +51,7 @@ Git
 
 --------------------------------------------------------------------------------
 
-## Colaborateurs
+## Collaborateurs
 
 Andy | [Janaina](https://github.com/janasabino/) | [Megan](https://github.com/MHlt578) | Parisa
 
