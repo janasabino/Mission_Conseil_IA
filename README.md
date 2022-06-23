@@ -23,7 +23,7 @@
 |Github         |blabla |Github|
 |Base de Données         |blabla |MySQL|
 |Python        |blabla |Python|
-|Proposition globale         |blabla |Jira|
+|Proposition globale         |blablaa |Jira|
 
 --------------------------------------------------------------------------------
 
