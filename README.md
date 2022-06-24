@@ -19,13 +19,13 @@
 
 | Tâche                     | Description|Languages/Outils|
 |-------------------------|  --------|---|
-|Remise en contexte         |blabla |Google|
-|Présentation des métiers         |blabla |Google|
-|Outils de gestion de Projet         |blabla |Jira|
-|Github         |blabla |Github|
-|Base de Données         |blabla |MySQL|
-|Python        |blabla |Python|
-|Proposition globale         |blablaa |Jira|
+|Remise en contexte         |Remise en contexte de la demande clients |-|
+|Présentation des métiers         |Présentation des différents profils impliqués dans un projet data |-|
+|Outils de gestion de Projet         |Présentation des différents outils de gestion de projet |Jira|
+|Github         |Création et démonstration de l'utilité d'un Github |Github|
+|Base de Données         |Récupérer un jeu de données CSV lié à l'activité du client afin de créer une base de données SQL et de démontrer les requêtes habituelles |MySQL|
+|Python        |Plusieurs Jupyter Notebooks pour expliquer le fonctionnement des scripts Python de base |Python|
+|Proposition globale         |Conclusion globale et proposition d’accompagnement afin de digitaliser l’activité du client |-|
 
 --------------------------------------------------------------------------------
 
@@ -37,9 +37,9 @@
 
 ## Codes: requirements - environnement
 
-- [Python 3.7.10](https://www.sqlalchemy.org/)
-- [Jupyter 6.4.8]
-- [Sqlalchemy 1.4.9]
+Python 3.7.10
+Jupyter 6.4.8
+Sqlalchemy 1.4.9
 
 --------------------------------------------------------------------------------
 
