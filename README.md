@@ -31,25 +31,15 @@
 
 ## Docs
 
-Python
-
-SQL
-
-SGBD
-
-Jira
-
-Git
+[Python](https://www.python.org/) | [Base de données](https://support.microsoft.com/fr-fr/office/principes-fondamentaux-des-bases-de-donn%C3%A9es-a849ac16-07c7-4a31-9948-3c8c94a7c204) | [SQL](https://sql.sh/) | [Jira](https://www.atlassian.com/fr/agile/tutorials) | [Git](https://www.atlassian.com/fr/git)
 
 --------------------------------------------------------------------------------
-
 
 ## Codes: requirements - environnement
 
 - [Python 3.7.10](https://www.sqlalchemy.org/)
 - [Jupyter 6.4.8]
 - [Sqlalchemy 1.4.9]
-
 
 --------------------------------------------------------------------------------
 
