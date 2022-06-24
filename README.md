@@ -55,6 +55,6 @@ Git
 
 ## Collaborateurs
 
-Andy | [Janaina](https://github.com/janasabino/) | [Megan](https://github.com/MHlt578) | Parisa
+[Andy](https://github.com/75andybermond) | [Janaina](https://github.com/janasabino/) | [Megan](https://github.com/MHlt578) | Parisa
 
 
