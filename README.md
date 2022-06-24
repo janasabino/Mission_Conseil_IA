@@ -38,7 +38,9 @@
 ## Codes: requirements - environnement
 
 Python 3.7.10
+
 Jupyter 6.4.8
+
 Sqlalchemy 1.4.9
 
 --------------------------------------------------------------------------------
